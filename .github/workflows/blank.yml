@@ -38,5 +38,4 @@ jobs:
             node-version: '10.x
 
       - name: test node
-        run:
-            node -v
+        run: node -v
