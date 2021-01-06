@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Vanke
 - 🌱 I’m currently learning JavaScript
-- 📚 I’m currently reading <<JavaScript 语言精髓与编程实践>>
+- 📚 I’m currently reading <<深入浅出 Vue.js>>
 
 <img src='https://pbs.twimg.com/media/Eqaj13tVQAEmNal?format=jpg&name=large' width='308' height='178'></img>
 <!--
