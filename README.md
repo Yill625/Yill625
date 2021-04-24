@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📚 I’m currently reading <<你不知道的JavaScript（上卷）>>
 
-<img src='https://weapposs.oss-cn-shenzhen.aliyuncs.com/cover/2021/04/15/FoeW6RV5Z9YUihVTENe9HUoVhbvcUHfxfewER8zQ.png' width='308' height='178'></img>
+<img src='https://pbs.twimg.com/media/EzuX7peVcAENw0B?format=jpg&name=large' width='308' height='178'></img>
 <!--
 **Yill625/Yill625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
