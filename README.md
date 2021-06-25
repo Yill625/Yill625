@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Vanke
 - 🌱 I’m currently learning JavaScript
-- 📚 I’m currently reading << 你不知道的 JavaScript (中卷) >>
+- 📚 I’m currently reading << JavaScript设计模式与开发实践 >>
 
-<img src='https://pbs.twimg.com/media/E3htOLBVUAMrP2C?format=jpg&name=large' width='308' height='178'></img>
+<img src='https://pbs.twimg.com/media/E4p5_fEVoAYpIZ2?format=jpg&name=large' width='308' height='178'></img>
 <!--
 **Yill625/Yill625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
