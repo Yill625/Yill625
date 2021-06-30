@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📚 I’m currently reading << JavaScript设计模式与开发实践 >>
 
-<img src='https://pbs.twimg.com/media/E4p5_fEVoAYpIZ2?format=jpg&name=large' width='308' height='178'></img>
+<img src='https://pbs.twimg.com/media/E5I-pOfUUAkk2V_?format=jpg&name=large' width='308' height='178'></img>
 <!--
 **Yill625/Yill625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
