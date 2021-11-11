@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Vanke
 - 🌱 I’m currently learning JavaScript
-- 📚 I’m currently reading << 被讨厌的勇气 >>
+- 📚 I’m currently reading << 刻意练习 >>
 
 <img src='https://pbs.twimg.com/media/FBf7Zi-UYAgFm_f?format=jpg&name=large' width='308' height='178'></img>
 <!--
