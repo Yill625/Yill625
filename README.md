@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning TypeScrip
 - 📚 I’m currently reading << 刻意练习 >>
 
-<img src='https://pbs.twimg.com/media/FBf7Zi-UYAgFm_f?format=jpg&name=large' width='308' height='178'></img>
+<img src='https://pbs.twimg.com/media/FEUpmz1UcAMSQ3q?format=jpg&name=large' width='308' height='178'></img>
 <!--
 **Yill625/Yill625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
