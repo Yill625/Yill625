@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on Vanke
-- 🌱 I’m currently learning TypeScrip
+- 🌱 I’m currently learning TypeScript
 - 📚 I’m currently reading << 刻意练习 >>
 
 <img src='https://pbs.twimg.com/media/FEUpmz1UcAMSQ3q?format=jpg&name=large' width='308' height='178'></img>
