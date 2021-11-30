@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Vanke
 - 🌱 I’m currently learning TypeScript
-- 📚 I’m currently reading << 思考快与慢 >>
+- 📚 I’m currently reading << 分析与思考 >>
 
 <img src='https://pbs.twimg.com/media/FEUpmz1UcAMSQ3q?format=jpg&name=large' width='308' height='178'></img>
 <!--
