@@ -1,6 +1,6 @@
 ### Hi there <img src="https://qiniu.yiliangliang.cn/blog/20230214144907_IbH7cF_68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" width="25px">
-- 🔭 I’m currently working on Vanke
-- 🌱 I’m currently learning TypeScript
+<!-- - 🔭 I’m currently working on Vanke -->
+<!-- - 🌱 I’m currently learning TypeScript-->
 - ✨ My website: [yiliangliang.cn](https://yiliangliang.cn)
 <!-- - 📚 I’m currently reading << 增长黑客 >>-->
 
